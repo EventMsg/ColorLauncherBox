@@ -1,0 +1,24 @@
+#1
+Q:Java(Jre)是什么
+A:可以运行Java程序，Minecraft即Java程序
+#2
+Q:在哪可以下载Java(Jre)
+A:所提供客户端服务器的群内或者访问www.java.com
+#3
+Q:对应版本应该下载哪个版本的Java
+A:一般1.7.10以下的版本使用Java7，以上的使用Java8
+#4
+Q:启动游戏后提示A Java Exception has occurred.
+A:请检查是否使用了正确的Java版本，高版本则可能需要Java8
+#5
+Q:启动游戏后提示无效的参数.
+A:请不要选择Java的安装程序，安装Java后自动寻找或者手动选择javaw.exe即可
+#6
+Q:游戏启动之后没有反应
+A:请检查内存的设置情况，32位Java最大内存最高设置为1200
+#7
+Q:设置正常游戏启动之后没有反应
+A:打开.minecraf\crash-reports文件夹中，打开崩溃日志，如含有opengl等字样可以尝试更新显卡驱动
+#8
+Q:电脑性能还算不错，可是玩起来就是很卡
+A:此情况大多出现在笔记本电脑上，默认使用的英特尔集成显卡，鼠标右键桌面>NVIDIA控制面板>3D设置>添加程序 选择javaw.exe应用即可
